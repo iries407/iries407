@@ -58,10 +58,8 @@ My goal is to become a **Network Engineer** through hands-on labs, continuous le
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-E91E63?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E91E63?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-E91E63?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-E91E63?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-E91E63?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
 ### 🐍 Programming & Automation
@@ -69,7 +67,6 @@ My goal is to become a **Network Engineer** through hands-on labs, continuous le
 <p align="center">
 <img src="https://img.shields.io/badge/Python-E91E63?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-E91E63?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-E91E63?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
 ### 🔧 Tools
@@ -79,7 +76,6 @@ My goal is to become a **Network Engineer** through hands-on labs, continuous le
 <img src="https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-E91E63?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terminal-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-E91E63?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
 ---

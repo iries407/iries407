@@ -1,38 +1,39 @@
+<div align="center">
+
 # 👋 Hi, I'm Iries
 
-### 🎓 BSIT Student | 🌐 Aspiring Network Engineer
+### 🎓 BSIT Student • 🌐 Aspiring Network Engineer
 
-I'm a Bachelor of Science in Information Technology student building my foundation in **computer networking, systems, Linux, and network automation**.
+Building my foundation in **Computer Networking, Cisco Technologies, Systems, and Network Automation.**
 
-My goal is to become a **Network Engineer** by developing strong knowledge in networking fundamentals, Cisco technologies, network troubleshooting, and hands-on network labs.
+My goal is to become a **Network Engineer** through hands-on labs, continuous learning, and real-world troubleshooting.
 
-> **Learn. Build. Break. Troubleshoot. Document. Repeat. 🔧**
+<br>
+
+> 💗 **Learn. Build. Break. Troubleshoot. Document. Repeat. 🔧**
+
+</div>
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Focus
 
-My main focus is **Network Engineering**, especially:
+<div align="center">
 
-- 🌐 Network Infrastructure
-- 🔀 Switching & Routing
-- 📡 IPv4 & IPv6
-- 🧮 Subnetting
-- 🛠️ Network Troubleshooting
-- 🖥️ Network Administration
-- 🐧 Linux Networking
-- 🪟 Windows Networking
-- 🐍 Python for Network Automation
-- 🤖 Network Automation
-- ☁️ Cloud Networking
+🌐 **Network Infrastructure** • 🔀 **Switching & Routing** • 📡 **IPv4 / IPv6**  
+🧮 **Subnetting** • 🛠️ **Network Troubleshooting** • 🖥️ **Network Administration**  
+🐧 **Linux Networking** • 🪟 **Windows Networking** • 🐍 **Python**  
+🤖 **Network Automation** • ☁️ **Cloud Networking**
+
+</div>
 
 ---
 
 # 🛠️ Technologies & Tools
 
-## 🌐 Networking
+### 🌐 Networking
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-E91E63?style=for-the-badge"/>
@@ -48,22 +49,18 @@ My main focus is **Network Engineering**, especially:
 <img src="https://img.shields.io/badge/SSH-E91E63?style=for-the-badge"/>
 </p>
 
----
+### 🔵 Cisco
 
-## 🔵 Cisco Technologies
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Routers-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/CLI-1BA0D7?style=for-the-badge"/>
 </p>
 
----
+### 💻 Operating Systems
 
-## 💻 Operating Systems
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Linux-E91E63?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E91E63?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-E91E63?style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -71,21 +68,17 @@ My main focus is **Network Engineering**, especially:
 <img src="https://img.shields.io/badge/PowerShell-E91E63?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
----
+### 🐍 Programming & Automation
 
-## 🐍 Programming & Network Automation
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-E91E63?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-E91E63?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/YAML-E91E63?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
----
+### 🔧 Tools
 
-## 🔧 Tools
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-E91E63?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-E91E63?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -98,8 +91,8 @@ My main focus is **Network Engineering**, especially:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iries407&show_icons=true&theme=radical&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iries407&layout=compact&theme=radical&hide_border=false" />
+  <img height="180" src="./profile/stats.svg" />
+  <img height="180" src="./profile/top-langs.svg" />
 </p>
 
 ---
@@ -115,7 +108,139 @@ My main focus is **Network Engineering**, especially:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iries407&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
+  <img src="./profile/trophy.svg" />
 </p>
 
 ---
+
+# 🌐 Networking Journey
+
+<div align="center">
+
+🎓 **BSIT Student**
+<br>↓
+<br>
+💻 **IT Fundamentals**
+<br>↓
+<br>
+🌐 **Networking Fundamentals**
+<br>↓
+<br>
+🔵 **Cisco Networking**
+<br>↓
+<br>
+📡 **IPv4 • IPv6 • Subnetting**
+<br>↓
+<br>
+🔀 **Switching • VLANs • Routing**
+<br>↓
+<br>
+🛠️ **Network Troubleshooting**
+<br>↓
+<br>
+🎯 **CCNA**
+<br>↓
+<br>
+🐧 **Linux & Windows Networking**
+<br>↓
+<br>
+🐍 **Python for Network Automation**
+<br>↓
+<br>
+🤖 **Network Automation**
+<br>↓
+<br>
+☁️ **Cloud Networking**
+<br>↓
+<br>
+🌐 **Network Engineer**
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+🌐 Networking Fundamentals  
+🔀 Switching & Routing  
+📡 IPv4 / IPv6  
+🧮 Subnetting  
+🛠️ Network Troubleshooting  
+🔵 Cisco Networking  
+🎯 CCNA Preparation
+
+</p>
+
+---
+
+# 🧪 Hands-On Labs
+
+### 📡 Cisco Packet Tracer
+
+- Basic network topologies
+- IPv4 & IPv6 configuration
+- Subnetting
+- Switching & VLANs
+- Trunking
+- Routing
+- DHCP
+- SSH
+- Network troubleshooting
+
+### 💻 Future Labs
+
+- Linux Networking
+- Windows Networking
+- Python Network Automation
+- Network Automation
+- Cloud Networking
+
+---
+
+# 🚀 Projects
+
+| Project | Focus |
+|---|---|
+| 📡 Cisco Packet Tracer Labs | Networking & Cisco |
+| 🧮 IPv4 Subnetting Labs | IPv4 & Subnetting |
+| 🔀 VLAN & Switching Labs | Switching & VLANs |
+| 🚦 Routing Labs | Routing |
+| 🐧 Linux Networking Labs | Linux Networking |
+| 🐍 Python Network Automation | Automation |
+
+---
+
+# 🎯 Certifications & Goals
+
+### Current Goal
+
+🔵 **CCNA**
+
+### Future Goals
+
+🐧 Linux Skills  
+🐍 Python for Networking  
+🤖 Network Automation  
+☁️ Cloud Networking  
+🌐 Advanced Networking  
+💼 **Network Engineer**
+
+---
+
+# 💡 Learning Philosophy
+
+> **Learn the concept.**  
+> **Build the lab.**  
+> **Break the configuration.**  
+> **Troubleshoot the problem.**  
+> **Document what I learned.**
+
+<div align="center">
+
+### 🌐 Building my networking journey one lab at a time.
+
+**Thanks for visiting my profile! 💗**
+
+</div>

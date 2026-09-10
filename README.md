@@ -6,11 +6,7 @@
 
 Building my foundation in **Computer Networking, Cisco Technologies, Systems, and Network Automation.**
 
-My goal is to become a **Network Engineer** through hands-on labs, continuous learning, and real-world troubleshooting.
-
-<br>
-
-> 💗 **Learn. Build. Break. Troubleshoot. Document. Repeat. 🔧**
+My goal is to become a **Network Engineer** through hands-on labs, continuous learning, and real-world troubleshooting
 
 </div>
 
